@@ -4,6 +4,12 @@
 
 **Ссылка на проект:** [baikal_fronts_prediction.ipynb](https://colab.research.google.com/drive/1R5NMMWnes2M0-zLzCZjTe8vt3qtcyJPy)
 
+
+## Данные
+
+Исходный датасет не включен в репозиторий из-за ограничений лицензии NASA. 
+Полное описание структуры данных: [dataset_info.md](dataset_info.md)
+
 ---
 
 ## Как это сделано
