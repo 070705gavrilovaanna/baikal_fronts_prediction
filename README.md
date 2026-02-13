@@ -2,7 +2,7 @@
 
 Проект по прогнозированию атмосферных фронтов на озере Байкал на основе исторических данных температуры за 2014-2025 годы. Было предсказано появление фронтов на следующий день. Данные собраны самостоятельно через NASA POWER API.
 
-**Ссылка на проект:** [baikal_fronts_prediction.ipynb](https://colab.research.google.com/drive/1R5NMMWnes2M0-zLzCZjTe8vt3qtcyJPy)
+**Ссылка на проект:** [baikal_fronts_prediction.ipynb](https://colab.research.google.com/drive/1WwLwGRNPcYzh9uwIC-zfmcPqFYgdJR_g#scrollTo=fd9bmxdUbCM4)
 
 
 ## Данные
